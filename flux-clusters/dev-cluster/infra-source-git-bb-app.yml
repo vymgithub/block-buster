@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: 7-demo
+    branch: infrastructure
   url: https://github.com/vymgithub/bb-app-source
