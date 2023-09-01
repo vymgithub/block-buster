@@ -9,4 +9,4 @@ spec:
   secretRef:
     name: ghcr-auth
   type: oci
-  url: oci://ghcr.io//bb-app
+  url: oci://ghcr.io/vymgithub/bb-app
